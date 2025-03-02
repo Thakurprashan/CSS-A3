@@ -1,0 +1,152 @@
+.main{
+    background-color: gray;
+    height: 1900px;
+
+}
+.division1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.box1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-shadow: 2px 1px 2px purple;
+    box-shadow: 10px 10px purple;
+    background-color: white;
+    border: 7px solid red;
+    color: purple;
+    width: 500px;
+}
+.division2{
+    border: 10px solid green;
+    height: 800px; 
+}
+.box2{
+    display: inline-block;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    text-shadow: 2px 1px 2px  purple;
+    box-shadow: 12px 10px  purple;
+    padding-left: 10px;
+    width: 210px;
+}
+.box3{
+    background-color: white;
+    border: 5px solid red;
+    margin-right: 50px;
+    border-radius: 10px;
+    float: right;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-shadow: 2px 1px 2px  purple;
+    box-shadow: 12px 10px  purple;   
+}
+.box4{
+        background-color: white;
+        border: 5px solid red;
+        font-size: large;
+        letter-spacing: 3px;
+        height: 300px;
+        margin-top: 70px;
+        padding-left: 10px;
+        border-radius: 10px;
+        width: 230px;
+        text-shadow: 2px 1px 2px  purple;
+        box-shadow: 12px 10px  purple;   
+}
+.box5{
+    background-color: white;
+    border: 5px solid red;
+    font-size: large;
+    float: right;
+    margin-top: -300px;
+    margin-right: 30px;
+    letter-spacing: 3px;
+    height: 300px;
+    padding-left: 10px;
+    border-radius: 10px;
+    width: 230px;
+    text-shadow: 2px 1px 2px  purple;
+    box-shadow: 12px 10px  purple;  
+}
+#rateus{
+    margin-left: 60px;
+}
+#rateus2{
+    margin-left: 20px;
+}
+#submit{
+    margin-left: 60px;
+}
+#submit2{
+    margin-left: 60px;
+    background-color: red;
+    border-radius: 20px;
+}
+.division3{
+    display: inline-block;
+    background-color: green;
+    border: 7px solid purple;
+    margin: 40px;
+    height: 650px;
+    margin-left: 300px;
+    text-align: center;
+    width: 850px;
+    padding: 10px;
+
+}
+.boxes7{
+    display: inline-block;
+    background-color: yellow;
+    padding: 30px;
+    height: 250px;
+    margin-top: 20px;
+    width: 350px;
+    font-weight: bolder;
+     
+}
+.a1{
+    font-style: italic;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+.a2{
+   
+    font-style: italic;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+.box8{
+    display: inline-block;
+    background-color: yellow;
+    width: 820px;
+    font-weight:bolder;
+    margin: 10px;
+}
+.a3{
+    font-style: italic;
+    line-height: 25px;
+}
+
+.box9{
+    position: fixed;
+    height: 100px;
+    width: 430px;
+    background-color:blue;
+    border: 6px solid red;
+    box-shadow: 10px 10px 2px purple;
+    border-radius: 20px;
+    left: 430px;
+    top: 520px;
+    margin-left: 60px;
+}
+.stick{
+    display: inline-block;
+    margin: 30px;
+}
